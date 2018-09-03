@@ -19,13 +19,13 @@
 ------------------------------------------------------------
 #### 展示
 * 登录页
-![Alt text](https://github.com/BeanWei/flask-user-api-template/blob/master/Screenshots/login.PNG)
+![Alt text](https://github.com/guanshanyue/flaskvue/blob/master/flask_vue/Screenshots/login.PNG)
 
 * 注册页
-![Alt text](https://github.com/BeanWei/flask-user-api-template/blob/master/Screenshots/signin.PNG)
+![Alt text](https://github.com/guanshanyue/flaskvue/blob/master/flask_vue/Screenshots/signin.PNG)
 
 * QQ邮箱
-![Alt text](https://github.com/BeanWei/flask-user-api-template/blob/master/Screenshots/email.PNG)
+![Alt text](https://github.com/guanshanyue/flaskvue/blob/master/flask_vue/Screenshots/email.PNG)
 
 ------------------------------------------------------------
 此项目基本上实现了关于用户的业务逻辑需求,后续的需求可以在此模板上进行再次开发.
