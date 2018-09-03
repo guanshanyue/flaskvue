@@ -19,4 +19,3 @@ npm install
 
 #启动前端包
 npm run dev
-d
